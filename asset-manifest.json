@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Petja314/hws2.git/static/css/main.38290bd8.css",
+    "main.js": "/Petja314/hws2.git/static/js/main.b80715b2.js",
+    "static/js/787.66cb4309.chunk.js": "/Petja314/hws2.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/Petja314/hws2.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/Petja314/hws2.git/index.html",
+    "main.38290bd8.css.map": "/Petja314/hws2.git/static/css/main.38290bd8.css.map",
+    "main.b80715b2.js.map": "/Petja314/hws2.git/static/js/main.b80715b2.js.map",
+    "787.66cb4309.chunk.js.map": "/Petja314/hws2.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38290bd8.css",
+    "static/js/main.b80715b2.js"
+  ]
+}
